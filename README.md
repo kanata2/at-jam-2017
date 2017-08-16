@@ -1,4 +1,4 @@
-# atjam2017
+# at-jam-2017
 
 This application makes you making and saving Timetable of @ JAM EXPO 2017.
 
