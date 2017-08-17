@@ -6,9 +6,8 @@
     <table-cell
       class="turns"
       v-for="turn in nturns"
-      v-on:click="getPos()"
-      v-bind:turn="turn"
-      v-bind:color="color"
+      :turn="turn"
+      :color="color"
       :key="turn.id">
       {{ turn.id }}
     </table-cell>
@@ -51,9 +50,6 @@
             const offset = (startByMinute - prevEndByMinute) * 5
             return Object.assign(turn, { offset: offset })
           })
-      },
-      getPos (e) {
-        console.log(e)
       },
     },
   }

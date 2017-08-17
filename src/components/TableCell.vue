@@ -3,8 +3,8 @@
     class="cell"
     v-on:click="toggleSelectStatus"
     :style="styleProps">
-    {{ turn.start | hhmmWithDelimiter }}-{{ turn.end | hhmmWithDelimiter }} ({{ this.time() }}) <br>
-    {{ turn.lineup.map((e, i, a) => e.name).join('/') || turn.replacement }}
+    {{ turn.start | hhmmWithDelimiter }}-{{ turn.end | hhmmWithDelimiter }} ({{ this.allotedTime() }}) <br>
+    {{ turn.lineup.map(e => e.name).join('/') || turn.replacement }}
   </div>
 </template>
 
@@ -15,7 +15,7 @@
     data () {
       return {
         styleProps: {
-          height: `${this.time() / 2 * 10}px`,
+          height: `${this.allotedTime() / 2 * 10}px`,
           'margin-top': `${this.turn.offset}px`,
           'border-bottom': `5px solid ${this.color}`,
         },
@@ -23,9 +23,9 @@
     },
     methods: {
       toggleSelectStatus (e) {
-        //const pos = e.target.getBoundingClientRect()
-        //const top = pos.top
-        //const bottom = pos.bottom
+        // const pos = e.target.getBoundingClientRect()
+        // const top = pos.top
+        // const bottom = pos.bottom
         const bgColor = e.target.style.backgroundColor
         const selectedColor = 'rgb(255, 255, 0)' // '#ffff00'
         if (bgColor === selectedColor) {
@@ -34,7 +34,7 @@
           e.target.style.backgroundColor = selectedColor
         }
       },
-      time () {
+      allotedTime () {
         const start = this.turn.start
         const end   = this.turn.end
         const startByMinute = Math.floor(start / 100) * 60 + start % 100
