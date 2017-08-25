@@ -136,7 +136,7 @@
           {
             "id": "3820",
             "timetableId": "351",
-            "replacement": "EXPO Special JAM Session①\n■大阪☆春夏秋冬×わーすた\n■アイドルネッサンス「17才」コラボ\n■つりビット×ハコイリ♡ムスメ\n■夢の砂グランプリ優勝者",
+            "replacement": "EXPO Special JAM Session①\n●夢の砂グランプリ優勝者\n●大阪☆春夏秋冬×わーすた\n●アイドルネッサンス「17才」コラボ（※1）\n●つりビット×ハコイリ♡ムスメ\n",
             "start": "1215",
             "end": "1305",
             "addedTime": "1502636066",
@@ -182,7 +182,7 @@
           {
             "id": "3823",
             "timetableId": "351",
-            "replacement": "EXPO Special JAM Session②\n■でんぱ組.inc 成瀬瑛美コラボ\n■Devil ANTHEM.×26時のマスカレイド\n■iDOl Streetシャッフル",
+            "replacement": "EXPO Special JAM Session②\n●でんぱ組.inc 成瀬瑛美コラボ(※２)\n●Devil ANTHEM.×26時のマスカレイド\n●iDOL Streetシャッフル",
             "start": "1355",
             "end": "1445",
             "addedTime": "1502636066",
@@ -228,7 +228,7 @@
           {
             "id": "3826",
             "timetableId": "351",
-            "replacement": "EXPO Special JAM Session③\n■サクラノユメ。\n■WHY@DOLL×寺嶋由芙\n■愛乙女☆DOLL×FES☆TIVE\n■東京女子流×sora tob sakana",
+            "replacement": "EXPO Special JAM Session③\n●サクラノユメ。\n●WHY@DOLL×寺嶋由芙\n●愛乙女☆DOLL×FES☆TIVE\n●東京女子流×sora tob sakana",
             "start": "1545",
             "end": "1635",
             "addedTime": "1502636066",
@@ -274,7 +274,7 @@
           {
             "id": "3829",
             "timetableId": "351",
-            "replacement": "EXPO Dream Stage ■Party Rockets ■GALETTe",
+            "replacement": "EXPO Dream Stage ●Party Rockets ●GALETTe",
             "start": "1730",
             "end": "1810",
             "addedTime": "1502636066",
@@ -3944,6 +3944,1125 @@
                 "name": "drop",
                 "slug": "drop",
                 "ruby": "どろっぷ"
+              }
+            ]
+          }
+        ],
+        "place": [
+          {
+            "id": "1225",
+            "stageName": "横浜アリーナ",
+            "locationName": null,
+            "ruby": "よこはまありーな",
+            "slug": null,
+            "capacity": null,
+            "station": "新横浜",
+            "country": "日本",
+            "prefecture": "神奈川県",
+            "city": "横浜市港北区新横浜3-10",
+            "officialUrl": null,
+            "mapUrl": "https://goo.gl/maps/fBWruKWBx9p",
+            "latitude": null,
+            "longitude": null,
+            "lastUpdatedAt": "1474363082"
+          }
+        ]
+      },
+      {
+        "id": "365",
+        "eventId": "14680",
+        "placeId": "1225",
+        "stage": "トークステージ",
+        "color": "#ABD9F4",
+        "isSales": "0",
+        "hide": "0",
+        "publishedTime": "1502629478",
+        "addedTime": "1502629478",
+        "updatedTime": null,
+        "turns": [
+          {
+            "id": "4024",
+            "timetableId": "365",
+            "replacement": "EXPO DD大会議 Day1 in＠JAM EXPO 2017",
+            "start": "1000",
+            "end": "1130",
+            "addedTime": "1502636066",
+            "updatedTime": null,
+            "lineup": []
+          },
+          {
+            "id": "4025",
+            "timetableId": "365",
+            "replacement": "黒騎士と白の魔王スペシャルステージ",
+            "start": "1200",
+            "end": "1300",
+            "addedTime": "1502636066",
+            "updatedTime": null,
+            "lineup": []
+          },
+          {
+            "id": "4026",
+            "timetableId": "365",
+            "replacement": "ミュージックパーク\nエンタメシンポジウム \nin @JAM EXPO 2017",
+            "start": "1330",
+            "end": "1430",
+            "addedTime": "1502636066",
+            "updatedTime": null,
+            "lineup": []
+          },
+          {
+            "id": "4027",
+            "timetableId": "365",
+            "replacement": "出張！杏子のへや",
+            "start": "1500",
+            "end": "1600",
+            "addedTime": "1502636066",
+            "updatedTime": null,
+            "lineup": []
+          },
+          {
+            "id": "4028",
+            "timetableId": "365",
+            "replacement": "＠JAM THE WORLD",
+            "start": "1630",
+            "end": "1730",
+            "addedTime": "1502636066",
+            "updatedTime": null,
+            "lineup": []
+          },
+          {
+            "id": "4029",
+            "timetableId": "365",
+            "replacement": "NGT48 Loves ＠JAM スペシャルトーク",
+            "start": "1800",
+            "end": "1900",
+            "addedTime": "1502636066",
+            "updatedTime": null,
+            "lineup": []
+          }
+        ],
+        "place": [
+          {
+            "id": "1225",
+            "stageName": "横浜アリーナ",
+            "locationName": null,
+            "ruby": "よこはまありーな",
+            "slug": null,
+            "capacity": null,
+            "station": "新横浜",
+            "country": "日本",
+            "prefecture": "神奈川県",
+            "city": "横浜市港北区新横浜3-10",
+            "officialUrl": null,
+            "mapUrl": "https://goo.gl/maps/fBWruKWBx9p",
+            "latitude": null,
+            "longitude": null,
+            "lastUpdatedAt": "1474363082"
+          }
+        ]
+      },
+      {
+        "id": "367",
+        "eventId": "14680",
+        "placeId": "1225",
+        "stage": "ふれあいエリアA",
+        "color": "#ffe7cb",
+        "isSales": "0",
+        "hide": "0",
+        "publishedTime": "1503050836",
+        "addedTime": "1503050836",
+        "updatedTime": null,
+        "turns": [
+          {
+            "id": "4297",
+            "timetableId": "367",
+            "replacement": null,
+            "start": "1100",
+            "end": "1200",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 82,
+                "status": 2,
+                "name": "Cheeky Parade",
+                "slug": "cheekyparade",
+                "ruby": "ちぃきぃぱれーど"
+              },
+              {
+                "id": 339,
+                "status": 2,
+                "name": "notall",
+                "slug": "notall",
+                "ruby": "のたる"
+              },
+              {
+                "id": 42,
+                "status": 2,
+                "name": "predia",
+                "slug": "predia",
+                "ruby": "ぷれでぃあ"
+              },
+              {
+                "id": 147,
+                "status": 2,
+                "name": "WHY@DOLL",
+                "slug": "whydoll",
+                "ruby": "ほわいどーる"
+              },
+              {
+                "id": 1,
+                "status": 2,
+                "name": "妄想キャリブレーション",
+                "slug": "mosoclbr",
+                "ruby": "もうそうきゃりぶれーしょん"
+              },
+              {
+                "id": 46,
+                "status": 2,
+                "name": "愛乙女☆DOLL",
+                "slug": "lovelydoll",
+                "ruby": "らぶりーどーる"
+              }
+            ]
+          },
+          {
+            "id": "4298",
+            "timetableId": "367",
+            "replacement": null,
+            "start": "1210",
+            "end": "1310",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 199,
+                "status": 3,
+                "name": "桜エビ〜ず",
+                "slug": "sakuraebis",
+                "ruby": "さくらえびーず"
+              },
+              {
+                "id": 139,
+                "status": 2,
+                "name": "SUPER☆GiRLS",
+                "slug": "supergirls",
+                "ruby": "すーぱーがーるず"
+              },
+              {
+                "id": 35,
+                "status": 2,
+                "name": "チャオ ベッラ チンクエッティ",
+                "slug": "ciaobella",
+                "ruby": "ちゃおべっらちんくえってぃ"
+              },
+              {
+                "id": 93,
+                "status": 2,
+                "name": "drop",
+                "slug": "drop",
+                "ruby": "どろっぷ"
+              },
+              {
+                "id": 38,
+                "status": 2,
+                "name": "PASSPO☆",
+                "slug": "passpo",
+                "ruby": "ぱすぽ"
+              },
+              {
+                "id": 179,
+                "status": 2,
+                "name": "ひめキュンフルーツ缶",
+                "slug": "himekyun",
+                "ruby": "ひめきゅんふるーつかん"
+              },
+              {
+                "id": 107,
+                "status": 3,
+                "name": "La PomPon",
+                "slug": "lapompon",
+                "ruby": "らぽんぽん"
+              }
+            ]
+          },
+          {
+            "id": "4299",
+            "timetableId": "367",
+            "replacement": null,
+            "start": "1320",
+            "end": "1420",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 247,
+                "status": 2,
+                "name": "sora tob sakana",
+                "slug": "soratobsakana",
+                "ruby": "そらとぶさかな"
+              },
+              {
+                "id": 166,
+                "status": 2,
+                "name": "つりビット",
+                "slug": "tsuri_bit",
+                "ruby": "つりびっと"
+              },
+              {
+                "id": 36,
+                "status": 2,
+                "name": "東京パフォーマンスドール",
+                "slug": "tpd",
+                "ruby": "とうきょうぱふぉーまんすどーる"
+              },
+              {
+                "id": 120,
+                "status": 2,
+                "name": "Party Rockets GT",
+                "slug": "partyrocketsgt",
+                "ruby": "ぱーてぃーろけっつじーてぃー"
+              },
+              {
+                "id": 96,
+                "status": 2,
+                "name": "FES☆TIVE",
+                "slug": "festive",
+                "ruby": "ふぇすてぃぶ"
+              },
+              {
+                "id": 200,
+                "status": 2,
+                "name": "山口活性学園",
+                "slug": "yamaguchikasseigakuen",
+                "ruby": "やまぐちかっせいがくえん"
+              },
+              {
+                "id": 488,
+                "status": 3,
+                "name": "ゆくえしれずつれづれ",
+                "slug": "yukuetsurezure",
+                "ruby": "ゆくえしれずつれづれ"
+              },
+              {
+                "id": 108,
+                "status": 3,
+                "name": "LinQ",
+                "slug": "linq",
+                "ruby": "りんく"
+              }
+            ]
+          },
+          {
+            "id": "4300",
+            "timetableId": "367",
+            "replacement": null,
+            "start": "1430",
+            "end": "1530",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 149,
+                "status": 2,
+                "name": "アイドルネッサンス",
+                "slug": "idolrenaissance",
+                "ruby": "あいどるねっさんす"
+              },
+              {
+                "id": 1827,
+                "status": 3,
+                "name": "There There Theres",
+                "slug": "ttts",
+                "ruby": "ぜあーぜあーぜあーず"
+              },
+              {
+                "id": 65,
+                "status": 3,
+                "name": "Chu-Z",
+                "slug": "chuz",
+                "ruby": "ちゅーず"
+              },
+              {
+                "id": 213,
+                "status": 2,
+                "name": "転校少女歌撃団",
+                "slug": "tenkoushoujo",
+                "ruby": "てんこうしょうじょかげきだん"
+              },
+              {
+                "id": 1883,
+                "status": 3,
+                "name": "MIGMA SHELTER",
+                "slug": "migmashelter",
+                "ruby": "みぐましぇるたー"
+              }
+            ]
+          },
+          {
+            "id": "4301",
+            "timetableId": "367",
+            "replacement": null,
+            "start": "1540",
+            "end": "1640",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 197,
+                "status": 3,
+                "name": "吉川友",
+                "slug": "kikkawayou",
+                "ruby": "きっかわゆう"
+              },
+              {
+                "id": 487,
+                "status": 2,
+                "name": "ぜんぶ君のせいだ。",
+                "slug": "zenbukiminosei",
+                "ruby": "ぜんぶきみのせいだ。"
+              },
+              {
+                "id": 240,
+                "status": 3,
+                "name": "ベボガ！(虹のコンキスタドール黄組)",
+                "slug": "beboga",
+                "ruby": "べぼが"
+              },
+              {
+                "id": 453,
+                "status": 2,
+                "name": "まねきケチャ",
+                "slug": "maneki_kecak",
+                "ruby": "まねきけちゃ"
+              },
+              {
+                "id": 66,
+                "status": 2,
+                "name": "MAPLEZ",
+                "slug": "maplez",
+                "ruby": "めいぷるず"
+              },
+              {
+                "id": 45,
+                "status": 2,
+                "name": "ゆるめるモ！",
+                "slug": "ylmlm",
+                "ruby": "ゆるめるも"
+              },
+              {
+                "id": 110,
+                "status": 2,
+                "name": "lyrical school",
+                "slug": "lyricalschool",
+                "ruby": "りりかるすくーる"
+              },
+              {
+                "id": 195,
+                "status": 2,
+                "name": "わーすた",
+                "slug": "wa_suta",
+                "ruby": "わーすた"
+              }
+            ]
+          },
+          {
+            "id": "4302",
+            "timetableId": "367",
+            "replacement": null,
+            "start": "1650",
+            "end": "1750",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 20,
+                "status": 2,
+                "name": "アキシブproject",
+                "slug": "akishibuproject",
+                "ruby": "あきしぶぷろじぇくと"
+              },
+              {
+                "id": 151,
+                "status": 2,
+                "name": "アップアップガールズ（仮）",
+                "slug": "upupgirlskakkokari",
+                "ruby": "あっぷあっぷがーるずかっこかり"
+              },
+              {
+                "id": 210,
+                "status": 2,
+                "name": "大阪☆春夏秋冬",
+                "slug": "osaka_shunkashuto",
+                "ruby": "おおさかしゅんかしゅうとう"
+              },
+              {
+                "id": 79,
+                "status": 2,
+                "name": "callme",
+                "slug": "callme",
+                "ruby": "こーるみー"
+              },
+              {
+                "id": 1902,
+                "status": 3,
+                "name": "サクラノユメ。",
+                "slug": "sakuranoyume",
+                "ruby": "さくらのゆめ"
+              },
+              {
+                "id": 100,
+                "status": 2,
+                "name": "GEM",
+                "slug": "gem",
+                "ruby": "じぇむ"
+              },
+              {
+                "id": 1111,
+                "status": 2,
+                "name": "Task have Fun",
+                "slug": "task_have_fun",
+                "ruby": "たすくはぶふぁん"
+              },
+              {
+                "id": 2,
+                "status": 2,
+                "name": "バンドじゃないもん！",
+                "slug": "bandjanaimon",
+                "ruby": "ばんどじゃないもん"
+              }
+            ]
+          },
+          {
+            "id": "4303",
+            "timetableId": "367",
+            "replacement": null,
+            "start": "1800",
+            "end": "1900",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 152,
+                "status": 3,
+                "name": "あゆみくりかまき",
+                "slug": "ayumikurikamak",
+                "ruby": "あゆみくりかまき"
+              },
+              {
+                "id": 23,
+                "status": 2,
+                "name": "Ange☆Reve",
+                "slug": "angereve",
+                "ruby": "あんじゅれーぶ"
+              },
+              {
+                "id": 15,
+                "status": 2,
+                "name": "神宿",
+                "slug": "kamiyado",
+                "ruby": "かみやど"
+              },
+              {
+                "id": 298,
+                "status": 2,
+                "name": "絶対直球女子！プレイボールズ",
+                "slug": "playballs",
+                "ruby": "ぜったい ちょっきゅう じょし ぷれいぼーるず"
+              },
+              {
+                "id": 9,
+                "status": 2,
+                "name": "寺嶋由芙",
+                "slug": "yufuterashima",
+                "ruby": "てらしまゆふ"
+              },
+              {
+                "id": 214,
+                "status": 3,
+                "name": "東京女子流",
+                "slug": "tokyogirlsstyle",
+                "ruby": "とうきょうじょしりゅう"
+              },
+              {
+                "id": 11,
+                "status": 2,
+                "name": "虹のコンキスタドール",
+                "slug": "nijinoconquistador",
+                "ruby": "にじのこんきすたどーる"
+              },
+              {
+                "id": 1907,
+                "status": 3,
+                "name": "ピンキー！ノーラ＆ペトラ",
+                "slug": "PinkyNooraPetra",
+                "ruby": "ぴんきーのーらぺとら"
+              },
+              {
+                "id": 218,
+                "status": 2,
+                "name": "夢みるアドレセンス",
+                "slug": "yumeado",
+                "ruby": "ゆめみるあどれせんす"
+              }
+            ]
+          }
+        ],
+        "place": [
+          {
+            "id": "1225",
+            "stageName": "横浜アリーナ",
+            "locationName": null,
+            "ruby": "よこはまありーな",
+            "slug": null,
+            "capacity": null,
+            "station": "新横浜",
+            "country": "日本",
+            "prefecture": "神奈川県",
+            "city": "横浜市港北区新横浜3-10",
+            "officialUrl": null,
+            "mapUrl": "https://goo.gl/maps/fBWruKWBx9p",
+            "latitude": null,
+            "longitude": null,
+            "lastUpdatedAt": "1474363082"
+          }
+        ]
+      },
+      {
+        "id": "368",
+        "eventId": "14680",
+        "placeId": "1225",
+        "stage": "ふれあいエリアB",
+        "color": "#ffe7cb",
+        "isSales": "0",
+        "hide": "0",
+        "publishedTime": "1503050836",
+        "addedTime": "1503050836",
+        "updatedTime": null,
+        "turns": [
+          {
+            "id": "4304",
+            "timetableId": "368",
+            "replacement": null,
+            "start": "1000",
+            "end": "1100",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 225,
+                "status": 2,
+                "name": "イケてるハーツ",
+                "slug": "iketeru_hearts",
+                "ruby": "いけてるはーつ"
+              },
+              {
+                "id": 21,
+                "status": 2,
+                "name": "純情のアフィリア",
+                "slug": "afilia",
+                "ruby": "じゅんじょうのあふぃりあ"
+              },
+              {
+                "id": 51,
+                "status": 2,
+                "name": "Stella☆Beats",
+                "slug": "stellabeats",
+                "ruby": "すてらびーつ"
+              },
+              {
+                "id": 419,
+                "status": 3,
+                "name": "東京CuteCute",
+                "slug": "tokyo_cute2",
+                "ruby": "とうきょうきゅーときゅーと"
+              }
+            ]
+          },
+          {
+            "id": "4305",
+            "timetableId": "368",
+            "replacement": null,
+            "start": "1100",
+            "end": "1200",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 572,
+                "status": 3,
+                "name": "アリエルプロジェクト",
+                "slug": "ArielProjectHK",
+                "ruby": "ありえるぷろじぇくと"
+              },
+              {
+                "id": 309,
+                "status": 3,
+                "name": "With Love",
+                "slug": "withlove",
+                "ruby": "うぃずらぶ"
+              },
+              {
+                "id": 1218,
+                "status": 3,
+                "name": "閃光プラネタゲート",
+                "slug": "senko_praneta_gate",
+                "ruby": "せんこうぷらねたげーと"
+              },
+              {
+                "id": 13,
+                "status": 3,
+                "name": "フラップガールズスクール",
+                "slug": "flapgs",
+                "ruby": "ふらっぷがーるずすくーる"
+              },
+              {
+                "id": 221,
+                "status": 3,
+                "name": "Fullfull☆Pocket",
+                "slug": "fullfullpocket",
+                "ruby": "ふるふるぽけっと"
+              },
+              {
+                "id": 43,
+                "status": 2,
+                "name": "ミライスカート",
+                "slug": "miraiskirt",
+                "ruby": "みらいすかーと"
+              },
+              {
+                "id": 7,
+                "status": 2,
+                "name": "Maison book girl",
+                "slug": "maisonbookgirl",
+                "ruby": "めぞんぶっくがーる"
+              }
+            ]
+          },
+          {
+            "id": "4306",
+            "timetableId": "368",
+            "replacement": null,
+            "start": "1200",
+            "end": "1300",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 1901,
+                "status": 3,
+                "name": "アップアップガールズ（２）",
+                "slug": "upupgirlskakkoniki",
+                "ruby": "あっぷあっぷがーるずかっこにき"
+              },
+              {
+                "id": 67,
+                "status": 3,
+                "name": "Star☆T",
+                "slug": "star2t",
+                "ruby": "すたーと"
+              },
+              {
+                "id": 1427,
+                "status": 2,
+                "name": "Chu☆Oh!Dolly",
+                "slug": "chuohdolly",
+                "ruby": "ちゅーおーどーりー"
+              },
+              {
+                "id": 246,
+                "status": 2,
+                "name": "Devil ANTHEM.",
+                "slug": "devilanthem",
+                "ruby": "でびるあんせむ"
+              },
+              {
+                "id": 12,
+                "status": 3,
+                "name": "P.IDL",
+                "slug": "pidl_teamd",
+                "ruby": "ぴーあいでぃーえるちーむでぃ"
+              },
+              {
+                "id": 182,
+                "status": 3,
+                "name": "フルーティー",
+                "slug": "fruity_girls",
+                "ruby": "ふるーてぃー"
+              },
+              {
+                "id": 60,
+                "status": 3,
+                "name": "RYUTist",
+                "slug": "ryutist",
+                "ruby": "りゅーてぃすと"
+              }
+            ]
+          },
+          {
+            "id": "4307",
+            "timetableId": "368",
+            "replacement": null,
+            "start": "1310",
+            "end": "1410",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 231,
+                "status": 3,
+                "name": "赤マルダッシュ☆",
+                "slug": "akamaru_dash",
+                "ruby": "あかまるだっしゅ"
+              },
+              {
+                "id": 64,
+                "status": 3,
+                "name": "ANNA☆S",
+                "slug": "annas",
+                "ruby": "あんなっつ"
+              },
+              {
+                "id": 1044,
+                "status": 3,
+                "name": "さくらシンデレラ",
+                "slug": "sakura_cinderella",
+                "ruby": "さくらしんでれら"
+              },
+              {
+                "id": 955,
+                "status": 3,
+                "name": "JK21R",
+                "slug": "jk21r",
+                "ruby": "じぇいけいとぅわんあーる"
+              },
+              {
+                "id": 525,
+                "status": 2,
+                "name": "DEAR KISS",
+                "slug": "dearkiss",
+                "ruby": "でぃあきす"
+              },
+              {
+                "id": 124,
+                "status": 3,
+                "name": "PREDIANNA",
+                "slug": "predianna",
+                "ruby": "ぷれでぃあな"
+              },
+              {
+                "id": 237,
+                "status": 2,
+                "name": "マジカル・パンチライン",
+                "slug": "magicalpunchline",
+                "ruby": "まじかるぱんちらいん"
+              },
+              {
+                "id": 1771,
+                "status": 3,
+                "name": "RIOT BABY",
+                "slug": "riotbaby",
+                "ruby": "らいおっとべいびー"
+              }
+            ]
+          },
+          {
+            "id": "4308",
+            "timetableId": "368",
+            "replacement": null,
+            "start": "1410",
+            "end": "1510",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 1376,
+                "status": 3,
+                "name": "@１７",
+                "slug": "at17",
+                "ruby": "あっとせぶんてぃーん"
+              },
+              {
+                "id": 1914,
+                "status": 3,
+                "name": "終演後物販",
+                "slug": "syuuen_go",
+                "ruby": "しゅうえんごぶっぱん"
+              },
+              {
+                "id": 230,
+                "status": 3,
+                "name": "青SHUN学園",
+                "slug": "seishun-gakuen",
+                "ruby": "せいしゅんがくえん"
+              },
+              {
+                "id": 175,
+                "status": 3,
+                "name": "ハコイリ♡ムスメ",
+                "slug": "hako_musu",
+                "ruby": "はこいりむすめ"
+              },
+              {
+                "id": 173,
+                "status": 3,
+                "name": "バーサスキッズ",
+                "slug": "versuskids",
+                "ruby": "ばーさすきっず"
+              },
+              {
+                "id": 369,
+                "status": 3,
+                "name": "ぴゅあ娘",
+                "slug": "pyuacco",
+                "ruby": "ぴゅあっこ"
+              },
+              {
+                "id": 44,
+                "status": 2,
+                "name": "むすびズム",
+                "slug": "musubizm",
+                "ruby": "むすびずむ"
+              }
+            ]
+          },
+          {
+            "id": "4309",
+            "timetableId": "368",
+            "replacement": null,
+            "start": "1510",
+            "end": "1610",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 379,
+                "status": 2,
+                "name": "amiinA",
+                "slug": "amiina",
+                "ruby": "あみいな"
+              },
+              {
+                "id": 749,
+                "status": 3,
+                "name": "シンセカイセン",
+                "slug": "sinsekaisen",
+                "ruby": "しんせかいせん"
+              },
+              {
+                "id": 1594,
+                "status": 3,
+                "name": "The Idol Formerly Known As LADYBABY",
+                "slug": "the_idol_formerly_known_as_ladybaby",
+                "ruby": "じあいどるふぉーみゅらりーのうんあずれでぃべいびー"
+              },
+              {
+                "id": 1741,
+                "status": 3,
+                "name": "Sola Sound",
+                "slug": "sola_sound",
+                "ruby": "そらさうんど"
+              },
+              {
+                "id": 91,
+                "status": 2,
+                "name": "Dorothy Little Happy",
+                "slug": "dorothylittlehappy",
+                "ruby": "どろしーりとるはっぴー"
+              },
+              {
+                "id": 119,
+                "status": 2,
+                "name": "PALET",
+                "slug": "palet",
+                "ruby": "ぱれっと"
+              },
+              {
+                "id": 181,
+                "status": 2,
+                "name": "ぷちぱすぽ☆",
+                "slug": "putipasspo",
+                "ruby": "ぷちぱすぽ"
+              }
+            ]
+          },
+          {
+            "id": "4310",
+            "timetableId": "368",
+            "replacement": null,
+            "start": "1620",
+            "end": "1720",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 1053,
+                "status": 2,
+                "name": "エラバレシ",
+                "slug": "erabareshi",
+                "ruby": "えらばれし"
+              },
+              {
+                "id": 1519,
+                "status": 3,
+                "name": "CROWN POP",
+                "slug": "crownpop",
+                "ruby": "くらうんぽっぷ"
+              },
+              {
+                "id": 70,
+                "status": 2,
+                "name": "じぇるの！",
+                "slug": "jelno",
+                "ruby": "じぇるの"
+              },
+              {
+                "id": 1325,
+                "status": 3,
+                "name": "THE 夏の魔物",
+                "slug": "natsunomamono",
+                "ruby": "なつのまもの"
+              },
+              {
+                "id": 1560,
+                "status": 3,
+                "name": "桃色革命",
+                "slug": "momoirokakumei",
+                "ruby": "ももいろかくめい"
+              },
+              {
+                "id": 1644,
+                "status": 3,
+                "name": "OnePixcel",
+                "slug": "onepixcel",
+                "ruby": "わんぴくせる"
+              }
+            ]
+          },
+          {
+            "id": "4311",
+            "timetableId": "368",
+            "replacement": null,
+            "start": "1720",
+            "end": "1820",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 1937,
+                "status": 3,
+                "name": "idol school",
+                "slug": "idolscool",
+                "ruby": "あいどるすくーる"
+              },
+              {
+                "id": 148,
+                "status": 3,
+                "name": "X21",
+                "slug": "x21",
+                "ruby": "えっくすにじゅういち"
+              },
+              {
+                "id": 1849,
+                "status": 3,
+                "name": "純粋カフェ・ラッテ",
+                "slug": "cafe_latte",
+                "ruby": "じゅんすいかふぇらって"
+              },
+              {
+                "id": 178,
+                "status": 3,
+                "name": "バニラビーンズ",
+                "slug": "vanillabeans",
+                "ruby": "ばにらびーんず"
+              },
+              {
+                "id": 1493,
+                "status": 2,
+                "name": "パンダみっく",
+                "slug": "pandamic",
+                "ruby": "ぱんだみっく"
+              },
+              {
+                "id": 223,
+                "status": 3,
+                "name": "Magical Ban☆Bang",
+                "slug": "magicalbb",
+                "ruby": "まじかるばんばん"
+              },
+              {
+                "id": 1612,
+                "status": 3,
+                "name": "松山あおい",
+                "slug": "matsuyama_aoi",
+                "ruby": "まつやまあおい"
+              },
+              {
+                "id": 1934,
+                "status": 3,
+                "name": "ミルクス本物 with いとしのリトルシスターズ",
+                "slug": "milcswithitosisuo",
+                "ruby": "みるくすほんものうぃずいとしのりとるしすたーず"
+              }
+            ]
+          },
+          {
+            "id": "4312",
+            "timetableId": "368",
+            "replacement": null,
+            "start": "1820",
+            "end": "1920",
+            "addedTime": "1503051045",
+            "updatedTime": null,
+            "lineup": [
+              {
+                "id": 1397,
+                "status": 3,
+                "name": "AIS-All Idol Songs-",
+                "slug": "allidolsongs",
+                "ruby": "あいす"
+              },
+              {
+                "id": 1121,
+                "status": 2,
+                "name": "on and Go！",
+                "slug": "on_and_go",
+                "ruby": "おんあんどごー"
+              },
+              {
+                "id": 1903,
+                "status": 3,
+                "name": "Shibu3 project",
+                "slug": "shibu3project",
+                "ruby": "しぶさんぷろじぇくと"
+              },
+              {
+                "id": 31,
+                "status": 2,
+                "name": "SiAM&POPTUNe",
+                "slug": "siampoptune",
+                "ruby": "しゃむぽっぷちゅーん"
+              },
+              {
+                "id": 1055,
+                "status": 3,
+                "name": "全力少女R",
+                "slug": "zenryokur",
+                "ruby": "ぜんりょくしょうじょあーる"
+              },
+              {
+                "id": 143,
+                "status": 3,
+                "name": "TPD DASH!!",
+                "slug": "tpd_dash",
+                "ruby": "てぃーぴーでぃーだっしゅ"
+              },
+              {
+                "id": 1685,
+                "status": 3,
+                "name": "26時のマスカレイド",
+                "slug": "26jino_masukareido",
+                "ruby": "にじゅうろくじのますかれいど"
               }
             ]
           }
